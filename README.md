@@ -39,28 +39,28 @@ Take care of yourself We love you very much.
 Team Linuxkurulum
 
 ```
-So how to do. Each file have unique password to run. All of them hidden inside mainsc and mainsc have password to that hidden inside linuxkurulum.
+So how to do? Each file have unique password to run. All of them hidden inside mainsc and mainsc have password to that hidden inside linuxkurulum.
 
 
 #### Long story short. Mark them as executable first.
 
 | Script Name  | Run Command  | Description |
 | :------------ |:---------------:| ----- |
-|menusc| ./menusc -gg 238904320|Main Menu|
-|sinusbotyonet| ./sinusbotyonet -gg 9385144|Control SinusBot +BAN|
-|sinusbotkur| ./sinusbotkur -gg 837539|Install SinusBot +BAN|
-|nosinusbotyonet| ./nosinusbotyonet -gg 9385144|Control SinusBot -BAN|
-|nosinusbotkur| ./nosinusbotkur -gg 837539|Install SinusBot -BAN|
-|audiobotyonet2| ./audiobotyonet2 -gg 943085439|Control AudioBot|
-|audiobotkur2| ./audiobotkur2 -gg 93583411|Install AudioBot|
-|audiobotone2| ./audiobotone2 -gg 93583411|Install AudioBot Single|
-|ts3serveryonet| ./ts3serveryonet -gg 99966654|Control TS3 Server|
-|ts3server138| ./ts3server138 -gg 238049|Install TS3 Server+Crack|
-|ts3server3210| ./ts3server3120 -gg 238049|Install TS3 Server|
-|ts3server3110| ./ts3server3110 -gg 238049|Install TS3 Server|
-|ts3server3102| ./ts3server3102 -gg 238049|Install TS3 Server|
-|teayonet| ./teayonet -gg 3038943|Control TeaSpeak|
-|teakur| ./teakur -gg 452343222|Install TeaSpeak Server|
+|menusc|./menusc -gg 238904320|Main Menu|
+|sinusbotyonet|./sinusbotyonet -gg 9385144|Control SinusBot|
+|sinusbotkur|./sinusbotkur -gg 837539|Install SinusBot|
+|nosinusbotyonet|./nosinusbotyonet -gg 9385144|Control SinusBot NoBAN|
+|nosinusbotkur|./nosinusbotkur -gg 837539|Install SinusBot NoBAN|
+|audiobotyonet2|./audiobotyonet2 -gg 943085439|Control AudioBot|
+|audiobotkur2|./audiobotkur2 -gg 93583411|Install AudioBot|
+|audiobotone2|./audiobotone2 -gg 93583411|Install AudioBot Single|
+|ts3serveryonet|./ts3serveryonet -gg 99966654|Control TS3 Server|
+|ts3server138|./ts3server138 -gg 238049|Install TS3 Server w/Crack|
+|ts3server3210|./ts3server3120 -gg 238049|Install TS3 Server|
+|ts3server3110|./ts3server3110 -gg 238049|Install TS3 Server|
+|ts3server3102|./ts3server3102 -gg 238049|Install TS3 Server|
+|teayonet|./teayonet -gg 3038943|Control TeaSpeak|
+|teakur|./teakur -gg 452343222|Install TeaSpeak Server|
 
 All scripts will be removed after each run. You have to redownload them everytime or find a way to block them from deletion eh ;)
 
