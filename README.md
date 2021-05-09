@@ -45,7 +45,7 @@ So how to do. Each file have unique password to run. All of them hidden inside m
 #### Long story short. Mark them as executable first.
 
 | Script Name  | Run Command  | Description |
-| :------------ |:---------------:| -----|
+| :------------ |:---------------:| ----- |
 |menusc| ./menusc -gg 238904320|Main Menu|
 |sinusbotyonet| ./sinusbotyonet -gg 9385144|Control SinusBot +BAN|
 |sinusbotkur| ./sinusbotkur -gg 837539|Install SinusBot +BAN|
