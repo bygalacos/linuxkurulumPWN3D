@@ -16,7 +16,7 @@ You can clone everything except README.md to use script without any connection t
 
 ## More Deep
 
-They compiled every bash file to obfuscate their code. And if you try to run menusc with only ./menusc you will get this:
+They compiled every bash file to obfuscate their code. And if you try to run menusc with only ./menusc you will get this :
 
 
 
@@ -70,7 +70,7 @@ ALERT: menusc file does lot of sensitive info (of yours) transfer with lkserver.
 
 Simple, they check ur data and geolocate you. Even restrict your IP for no reason.
 
-Log of mainsc
+Log of mainsc :
 
 ```
 curl -s -4 lkserver.linuxkurulum.codes/ipcek.php
